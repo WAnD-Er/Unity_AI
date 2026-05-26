@@ -1,0 +1,28 @@
+# Log Other
+/.svn
+/录屏
+/Library
+/Temp
+/Logs
+/.vs
+/.vscode
+/UserSettings
+/obj
+
+# Gradle cache directory
+.gradle/
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.csproj
+*.sln
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.asset.meta
+*.DS_Store
